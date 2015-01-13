@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Bezier Demo</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="view_obj_name">I\'m an view object</string>
+
+    <string name="hit_me_to_see_bezier">Hit me to show bezier</string>
+
+</resources>
